@@ -1,0 +1,7 @@
+1.2 (7/14/17):
+	* Added "/autores once" to always accept the next resurrection - it's canceled by using it again, logging off, or becoming alive in any way.
+
+1.1 (9/18/15):
+   * Added a "nocombat" setting to only auto-resurrect if no one in the group/raid is in combat.
+   * Added the option to set different settings for the world, instances, battlegrounds, and arenas.
+   * The settings are saved now.

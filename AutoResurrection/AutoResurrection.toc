@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: AutoResurrection
+## Author: Pyralis
+## Version: 1.2
+## Notes: Automatically accept player resurrections and use soulstones.
+## SavedVariablesPerCharacter: AutoResurrectionSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+AutoResurrection.lua
